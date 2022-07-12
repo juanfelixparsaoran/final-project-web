@@ -21,29 +21,19 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://kotakoki.wijaysali.my.id/')
 
-WebUI.click(findTestObject('Object Repository/Login/span_Login'))
+WebUI.setText(findTestObject('Object Repository/Searching/input_Featured products_s'), 'Shirt')
 
-if (usernameInvalid) {
-    WebUI.setText(findTestObject('Object Repository/Login/input_Username or E-mail_username-298'), '12345')
+WebUI.sendKeys(findTestObject('Object Repository/Searching/input_Featured products_s'), Keys.chord(Keys.ENTER))
 
-    WebUI.setEncryptedText(findTestObject('Object Repository/Login/input_Password_user_password-298'), '+Jz/9fvjCZLCuvZS9lPRbw==')
+WebUI.verifyElementPresent(findTestObject('Object Repository/Searching/h2_T-Shirt with Logo'), 0)
 
-    WebUI.click(findTestObject('Object Repository/Login/i_Only fill in if you are not human_um-icon_83284a'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/Searching/h2_T-Shirt'), 0)
 
-    WebUI.click(findTestObject('Object Repository/Login/input_Keep me signed in_um-submit-btn'))
+WebUI.click(findTestObject('Object Repository/Searching/i_Filters_thehanger-icons-display-list'))
 
-    WebUI.verifyElementPresent(findTestObject('Login/div_Please enter your username or email'), 0)
-} else {
-    WebUI.setText(findTestObject('Object Repository/Login/input_Username or E-mail_username-298'), 'geronimo')
+WebUI.verifyElementPresent(findTestObject('Object Repository/Searching/h2_T-Shirt with Logo'), 0)
 
-    WebUI.setEncryptedText(findTestObject('Object Repository/Login/input_Password_user_password-298'), '4nvbrPglk7k=')
-
-    WebUI.click(findTestObject('Object Repository/Login/i_Only fill in if you are not human_um-icon_83284a'))
-
-    WebUI.click(findTestObject('Object Repository/Login/input_Keep me signed in_um-submit-btn'))
-
-    WebUI.verifyElementPresent(findTestObject('Login/div_Please enter your password'), 0)
-}
+WebUI.verifyElementPresent(findTestObject('Object Repository/Searching/h2_T-Shirt'), 0)
 
 WebUI.closeBrowser()
 

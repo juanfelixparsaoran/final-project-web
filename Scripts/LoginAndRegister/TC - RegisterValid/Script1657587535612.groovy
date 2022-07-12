@@ -37,9 +37,9 @@ WebUI.setText(findTestObject('Object Repository/Register/input_Address_Relative_
 
 WebUI.click(findTestObject('Object Repository/Login/input_Only fill in if you are not human_um-_fc91b5'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Login/h1_juan'), 'geronimo')
+WebUI.verifyElementPresent(findTestObject('Login/span_My account'), 0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Login/span_My account'), 0)
+WebUI.verifyElementPresent(findTestObject(null), 0)
 
 WebUI.closeBrowser()
 
