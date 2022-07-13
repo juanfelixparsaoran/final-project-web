@@ -3,7 +3,7 @@
    <description></description>
    <name>img_New_attachment-woocommerce_thumbnail si_3f99c3</name>
    <tag></tag>
-   <elementGuidId>3a1c9fd4-817e-4109-9afd-bb8f165759fd</elementGuidId>
+   <elementGuidId>35431e44-af86-4195-9593-6f420707a4f1</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>67464634-86ed-4c20-84ea-1d2e1c43e6f4</webElementGuid>
+      <webElementGuid>251d4285-3b68-4002-ac53-b90813eb3971</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>width</name>
       <type>Main</type>
       <value>330</value>
-      <webElementGuid>cf200411-478a-4f40-a250-2c0b5eabb7ac</webElementGuid>
+      <webElementGuid>f4b8d096-a5f4-45d8-b731-82a85a9c2c7d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>height</name>
       <type>Main</type>
       <value>413</value>
-      <webElementGuid>f5717d34-a7fc-4bf6-9aa3-12a7b0b7d6bc</webElementGuid>
+      <webElementGuid>5c9aea38-6f77-4292-8633-1009749d02ab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://kotakoki.wijaysali.my.id/wp-content/uploads/2018/03/pennant-1-330x413.jpg</value>
-      <webElementGuid>55ba8812-eddc-4d78-b1f7-8d4828e830d8</webElementGuid>
+      <webElementGuid>08d1f907-cb7f-4883-b6b1-7b77c63f0796</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>attachment-woocommerce_thumbnail size-woocommerce_thumbnail</value>
-      <webElementGuid>9c34bc3c-737d-44ec-8720-b522c9d3bb84</webElementGuid>
+      <webElementGuid>c2cd43f5-9fca-45fb-a5ed-62567878a678</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>loading</name>
       <type>Main</type>
       <value>lazy</value>
-      <webElementGuid>ca904110-b25d-4c98-8134-a888451351aa</webElementGuid>
+      <webElementGuid>904516a4-e7f3-42d1-96f1-f6a62ce0f2b9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;sticky_bottom_anchor&quot;)/ul[@class=&quot;products columns-3 js_animated&quot;]/li[@class=&quot;product type-product post-28 status-publish instock product_cat-uncategorized has-post-thumbnail shipping-taxable product-type-external visible animation_ready animated&quot;]/div[@class=&quot;main-container&quot;]/div[@class=&quot;product_image_wrapper&quot;]/div[@class=&quot;product_image&quot;]/a[1]/img[@class=&quot;attachment-woocommerce_thumbnail size-woocommerce_thumbnail&quot;]</value>
-      <webElementGuid>3b3ada9b-970c-4f13-9de5-088e915bc223</webElementGuid>
+      <webElementGuid>ca6a69d7-9a05-448c-b574-2da1e3362a7c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='sticky_bottom_anchor']/ul/li[3]/div/div/div[2]/a/img</value>
-      <webElementGuid>2a637c8d-9062-4c49-b227-b6b79e747a76</webElementGuid>
+      <webElementGuid>7a9cbeec-464d-49d9-ba52-68d853ac794b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[contains(@src,'https://kotakoki.wijaysali.my.id/wp-content/uploads/2018/03/pennant-1-330x413.jpg')]</value>
-      <webElementGuid>d2bf71a7-bf08-47f2-97ec-ba45355d0199</webElementGuid>
+      <webElementGuid>c7d9f45c-f07c-4b16-bc9b-42420ee4e367</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[3]/div/div/div[2]/a/img</value>
-      <webElementGuid>03840c50-659e-4645-b675-1311f95c9a30</webElementGuid>
+      <webElementGuid>d00652f6-e8f7-48e4-aaca-823baa679c16</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'https://kotakoki.wijaysali.my.id/wp-content/uploads/2018/03/pennant-1-330x413.jpg']</value>
-      <webElementGuid>b725153a-f325-496b-aa80-fd98ea1441bb</webElementGuid>
+      <webElementGuid>9ac45e97-13bd-4a66-912d-f51da25f0371</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

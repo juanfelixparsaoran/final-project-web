@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Single</name>
+   <tag></tag>
+   <elementGuidId>89032bed-4fad-4018-bbbc-4f7ec4ccbc5d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sticky_bottom_anchor']/ul/li[6]/div/div[2]/div/a/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.product.type-product.post-18.status-publish.instock.product_cat-uncategorized.has-post-thumbnail.sale.downloadable.virtual.purchasable.product-type-simple.visible.animation_ready.animated > div.main-container > div.second-container > div.product_info > a.title > h2.woocommerce-loop-product__title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>021a8b0a-fdcc-4d4f-af6b-07cf12299ceb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>woocommerce-loop-product__title</value>
+      <webElementGuid>f3be2706-3bfb-496f-8eb1-4737d66aa537</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Single</value>
+      <webElementGuid>d8480b8a-bafe-40f1-bd89-5508a29d8f61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sticky_bottom_anchor&quot;)/ul[@class=&quot;products columns-3 js_animated&quot;]/li[@class=&quot;product type-product post-18 status-publish instock product_cat-uncategorized has-post-thumbnail sale downloadable virtual purchasable product-type-simple visible animation_ready animated&quot;]/div[@class=&quot;main-container&quot;]/div[@class=&quot;second-container&quot;]/div[@class=&quot;product_info&quot;]/a[@class=&quot;title&quot;]/h2[@class=&quot;woocommerce-loop-product__title&quot;]</value>
+      <webElementGuid>68ed3941-634f-4ee5-bbe7-6f1a2cd621ca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sticky_bottom_anchor']/ul/li[6]/div/div[2]/div/a/h2</value>
+      <webElementGuid>09d2ff6d-a766-43d0-a9dd-01aaac7c6e96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sale!'])[1]/following::h2[1]</value>
+      <webElementGuid>958816c3-4ecd-47c2-b91d-2fce853636b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New!'])[5]/following::h2[1]</value>
+      <webElementGuid>b91466fc-95a5-40da-bb12-2645251b958a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp'])[8]/preceding::h2[1]</value>
+      <webElementGuid>087db32a-1481-493b-83e2-8e01f0b87fab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp'])[9]/preceding::h2[1]</value>
+      <webElementGuid>d32b82da-9165-40ca-8cdd-e5225ce1bdfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Single']/parent::*</value>
+      <webElementGuid>f0a43413-27a9-4d8f-acd0-055c8944f873</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/div/div[2]/div/a/h2</value>
+      <webElementGuid>9cc33e37-49e7-4ca8-bade-d1ebf1b73486</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Single' or . = 'Single')]</value>
+      <webElementGuid>1a70cbab-5610-4193-be7d-abdaa65e8103</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>img_New_attachment-woocommerce_thumbnail si_3f99c3</name>
+   <name>img_New_woocommerce-placeholder wp-post-image</name>
    <tag></tag>
-   <elementGuidId>3a1c9fd4-817e-4109-9afd-bb8f165759fd</elementGuidId>
+   <elementGuidId>c6d77069-4ffc-4d99-a7e2-4770de01082f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='sticky_bottom_anchor']/ul/li[3]/div/div/div[2]/a/img</value>
+         <value>//div[@id='sticky_bottom_anchor']/ul/li[2]/div/div/div[2]/a/img</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>img.attachment-woocommerce_thumbnail.size-woocommerce_thumbnail</value>
+         <value>img.woocommerce-placeholder.wp-post-image</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>67464634-86ed-4c20-84ea-1d2e1c43e6f4</webElementGuid>
+      <webElementGuid>20c1ccec-617e-4bb0-bf8d-9774d0549eb2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>width</name>
       <type>Main</type>
       <value>330</value>
-      <webElementGuid>cf200411-478a-4f40-a250-2c0b5eabb7ac</webElementGuid>
+      <webElementGuid>d36402f4-be51-40d9-a2a9-e710171d1d79</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,23 +38,31 @@
       <name>height</name>
       <type>Main</type>
       <value>413</value>
-      <webElementGuid>f5717d34-a7fc-4bf6-9aa3-12a7b0b7d6bc</webElementGuid>
+      <webElementGuid>65407ea4-a29a-4f53-99e1-8ed3617af18b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>src</name>
       <type>Main</type>
-      <value>https://kotakoki.wijaysali.my.id/wp-content/uploads/2018/03/pennant-1-330x413.jpg</value>
-      <webElementGuid>55ba8812-eddc-4d78-b1f7-8d4828e830d8</webElementGuid>
+      <value>https://kotakoki.wijaysali.my.id/wp-content/uploads/woocommerce-placeholder-330x413.png</value>
+      <webElementGuid>b8f247b7-5593-4f98-ad7e-d7671506e54e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>attachment-woocommerce_thumbnail size-woocommerce_thumbnail</value>
-      <webElementGuid>9c34bc3c-737d-44ec-8720-b522c9d3bb84</webElementGuid>
+      <value>woocommerce-placeholder wp-post-image</value>
+      <webElementGuid>32304673-c321-4246-9af5-573f64fafe39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Placeholder</value>
+      <webElementGuid>6194f9e3-dd4b-4a9f-83c4-8b101999e251</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,46 +70,46 @@
       <name>loading</name>
       <type>Main</type>
       <value>lazy</value>
-      <webElementGuid>ca904110-b25d-4c98-8134-a888451351aa</webElementGuid>
+      <webElementGuid>51510379-d0d6-4e48-9bd9-03f82aa5f9af</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;sticky_bottom_anchor&quot;)/ul[@class=&quot;products columns-3 js_animated&quot;]/li[@class=&quot;product type-product post-28 status-publish instock product_cat-uncategorized has-post-thumbnail shipping-taxable product-type-external visible animation_ready animated&quot;]/div[@class=&quot;main-container&quot;]/div[@class=&quot;product_image_wrapper&quot;]/div[@class=&quot;product_image&quot;]/a[1]/img[@class=&quot;attachment-woocommerce_thumbnail size-woocommerce_thumbnail&quot;]</value>
-      <webElementGuid>3b3ada9b-970c-4f13-9de5-088e915bc223</webElementGuid>
+      <value>id(&quot;sticky_bottom_anchor&quot;)/ul[@class=&quot;products columns-3 js_animated&quot;]/li[@class=&quot;product type-product post-275 status-publish first instock product_cat-89 shipping-taxable purchasable product-type-simple visible animation_ready animated&quot;]/div[@class=&quot;main-container&quot;]/div[@class=&quot;product_image_wrapper&quot;]/div[@class=&quot;product_image&quot;]/a[1]/img[@class=&quot;woocommerce-placeholder wp-post-image&quot;]</value>
+      <webElementGuid>c376285c-a5ea-458e-b384-ec0f0314082e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='sticky_bottom_anchor']/ul/li[3]/div/div/div[2]/a/img</value>
-      <webElementGuid>2a637c8d-9062-4c49-b227-b6b79e747a76</webElementGuid>
+      <value>//div[@id='sticky_bottom_anchor']/ul/li[2]/div/div/div[2]/a/img</value>
+      <webElementGuid>fbb673b6-c42d-4435-b92a-e068a4e69eaa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:img</name>
       <type>Main</type>
-      <value>//img[contains(@src,'https://kotakoki.wijaysali.my.id/wp-content/uploads/2018/03/pennant-1-330x413.jpg')]</value>
-      <webElementGuid>d2bf71a7-bf08-47f2-97ec-ba45355d0199</webElementGuid>
+      <value>//img[@alt='Placeholder']</value>
+      <webElementGuid>fb3bbb82-c319-409b-b63f-ada085ece6b2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[3]/div/div/div[2]/a/img</value>
-      <webElementGuid>03840c50-659e-4645-b675-1311f95c9a30</webElementGuid>
+      <value>//div[2]/a/img</value>
+      <webElementGuid>c58f845f-2f8b-416f-a312-0a7af4bd4970</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//img[@src = 'https://kotakoki.wijaysali.my.id/wp-content/uploads/2018/03/pennant-1-330x413.jpg']</value>
-      <webElementGuid>b725153a-f325-496b-aa80-fd98ea1441bb</webElementGuid>
+      <value>//img[@src = 'https://kotakoki.wijaysali.my.id/wp-content/uploads/woocommerce-placeholder-330x413.png' and @alt = 'Placeholder']</value>
+      <webElementGuid>b4b7665f-8ad0-43cc-a9aa-aeba90ddd5bd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

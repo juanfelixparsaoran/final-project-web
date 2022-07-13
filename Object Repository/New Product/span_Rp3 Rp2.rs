@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Rp3 Rp2</name>
+   <tag></tag>
+   <elementGuidId>ad95b463-5f42-4433-a1df-6ccc6b388454</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sticky_bottom_anchor']/ul/li[6]/div/div[2]/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.product.type-product.post-18.status-publish.instock.product_cat-uncategorized.has-post-thumbnail.sale.downloadable.virtual.purchasable.product-type-simple.visible.animation_ready.animated > div.main-container > div.second-container > div.product_info > span.price</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>19b687e9-e1ef-4e8f-8b89-ed93aa2a2866</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>price</value>
+      <webElementGuid>a61cb9e1-6c94-415a-9849-1d2a99999cdf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rp3 Rp2</value>
+      <webElementGuid>1130d659-e84f-40ed-8a57-f3cb867833ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sticky_bottom_anchor&quot;)/ul[@class=&quot;products columns-3 js_animated&quot;]/li[@class=&quot;product type-product post-18 status-publish instock product_cat-uncategorized has-post-thumbnail sale downloadable virtual purchasable product-type-simple visible animation_ready animated&quot;]/div[@class=&quot;main-container&quot;]/div[@class=&quot;second-container&quot;]/div[@class=&quot;product_info&quot;]/span[@class=&quot;price&quot;]</value>
+      <webElementGuid>dabb6ef7-4007-4319-bd4d-62fdf3c4b536</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sticky_bottom_anchor']/ul/li[6]/div/div[2]/div/span</value>
+      <webElementGuid>ef2bd90c-fd70-44ee-8fa4-dfdac1ffe03a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Single'])[1]/following::span[1]</value>
+      <webElementGuid>37c8e09d-e486-4f51-be92-2595d2ae1569</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sale!'])[1]/following::span[1]</value>
+      <webElementGuid>b8ecf0dd-c68d-42bf-b2fd-f5928b8dc186</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/div/div[2]/div/span</value>
+      <webElementGuid>da504f40-5bcd-4d5f-b40f-9e39df58f69f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Rp3 Rp2' or . = 'Rp3 Rp2')]</value>
+      <webElementGuid>e50b9ec9-dbb2-45ea-a3d7-c3c860471a6e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

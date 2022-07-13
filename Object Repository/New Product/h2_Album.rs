@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Album</name>
+   <tag></tag>
+   <elementGuidId>dff3a4a1-3e78-435e-88b6-be2a5d1d5f02</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sticky_bottom_anchor']/ul/li[7]/div/div[2]/div/a/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.product.type-product.post-17.status-publish.last.instock.product_cat-uncategorized.has-post-thumbnail.downloadable.virtual.purchasable.product-type-simple.visible.animation_ready.animated > div.main-container > div.second-container > div.product_info > a.title > h2.woocommerce-loop-product__title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>c56c44ee-d9a5-426f-957e-fa19c0de6dab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>woocommerce-loop-product__title</value>
+      <webElementGuid>689720d8-92c3-41ec-b302-61291d1ac6ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Album</value>
+      <webElementGuid>a3f09fb5-51c0-4694-80de-4a49fb6a141b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sticky_bottom_anchor&quot;)/ul[@class=&quot;products columns-3 js_animated&quot;]/li[@class=&quot;product type-product post-17 status-publish last instock product_cat-uncategorized has-post-thumbnail downloadable virtual purchasable product-type-simple visible animation_ready animated&quot;]/div[@class=&quot;main-container&quot;]/div[@class=&quot;second-container&quot;]/div[@class=&quot;product_info&quot;]/a[@class=&quot;title&quot;]/h2[@class=&quot;woocommerce-loop-product__title&quot;]</value>
+      <webElementGuid>44473379-2364-4ef1-895f-fcbd8f6781f1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sticky_bottom_anchor']/ul/li[7]/div/div[2]/div/a/h2</value>
+      <webElementGuid>938b9a12-b736-4b37-baf2-dd27669c659f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New!'])[6]/following::h2[1]</value>
+      <webElementGuid>50d091a3-40a8-4ce8-8754-cce34e819122</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to cart'])[4]/following::h2[1]</value>
+      <webElementGuid>517bd390-498e-4e69-bd6b-7bcf047a8642</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp'])[10]/preceding::h2[1]</value>
+      <webElementGuid>d57c7802-5ce8-4a6b-a151-9d705452ffac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quick View'])[6]/preceding::h2[1]</value>
+      <webElementGuid>bfdb1b0b-df1d-41ab-9804-a2751a49c813</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Album']/parent::*</value>
+      <webElementGuid>6587c515-136d-4d54-ad91-7d09461d3a93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[7]/div/div[2]/div/a/h2</value>
+      <webElementGuid>8d79fd4f-66f1-41c0-955d-d5ee85e5f1b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Album' or . = 'Album')]</value>
+      <webElementGuid>6d28e962-039c-423e-80af-e6e03424ac3f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

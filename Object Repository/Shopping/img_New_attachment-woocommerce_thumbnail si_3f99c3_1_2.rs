@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>img_New_attachment-woocommerce_thumbnail si_3f99c3</name>
+   <name>img_New_attachment-woocommerce_thumbnail si_3f99c3_1_2</name>
    <tag></tag>
-   <elementGuidId>3a1c9fd4-817e-4109-9afd-bb8f165759fd</elementGuidId>
+   <elementGuidId>4a2f5180-ff7a-46c8-848d-a9f7c6b810e7</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='sticky_bottom_anchor']/ul/li[3]/div/div/div[2]/a/img</value>
+         <value>//div[@id='sticky_bottom_anchor']/ul/li[5]/div/div/div[2]/a/img</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>img.attachment-woocommerce_thumbnail.size-woocommerce_thumbnail</value>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>67464634-86ed-4c20-84ea-1d2e1c43e6f4</webElementGuid>
+      <webElementGuid>563985cc-5203-4526-8875-56df53d6cb01</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>width</name>
       <type>Main</type>
       <value>330</value>
-      <webElementGuid>cf200411-478a-4f40-a250-2c0b5eabb7ac</webElementGuid>
+      <webElementGuid>3c6f5dba-c523-4069-82c1-7d85e37a18dd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,15 +38,15 @@
       <name>height</name>
       <type>Main</type>
       <value>413</value>
-      <webElementGuid>f5717d34-a7fc-4bf6-9aa3-12a7b0b7d6bc</webElementGuid>
+      <webElementGuid>9f8eedc8-b233-492f-aedd-50e41242917c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>src</name>
       <type>Main</type>
-      <value>https://kotakoki.wijaysali.my.id/wp-content/uploads/2018/03/pennant-1-330x413.jpg</value>
-      <webElementGuid>55ba8812-eddc-4d78-b1f7-8d4828e830d8</webElementGuid>
+      <value>https://kotakoki.wijaysali.my.id/wp-content/uploads/2018/03/t-shirt-with-logo-1-330x413.jpg</value>
+      <webElementGuid>4eeb3bfd-090f-41bd-b572-7da329456c1a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>attachment-woocommerce_thumbnail size-woocommerce_thumbnail</value>
-      <webElementGuid>9c34bc3c-737d-44ec-8720-b522c9d3bb84</webElementGuid>
+      <webElementGuid>1a32ebde-a948-4118-8243-f0e1dce811e2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,46 +62,46 @@
       <name>loading</name>
       <type>Main</type>
       <value>lazy</value>
-      <webElementGuid>ca904110-b25d-4c98-8134-a888451351aa</webElementGuid>
+      <webElementGuid>5b9f1adb-5190-4c56-90c7-c2a36492b09d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;sticky_bottom_anchor&quot;)/ul[@class=&quot;products columns-3 js_animated&quot;]/li[@class=&quot;product type-product post-28 status-publish instock product_cat-uncategorized has-post-thumbnail shipping-taxable product-type-external visible animation_ready animated&quot;]/div[@class=&quot;main-container&quot;]/div[@class=&quot;product_image_wrapper&quot;]/div[@class=&quot;product_image&quot;]/a[1]/img[@class=&quot;attachment-woocommerce_thumbnail size-woocommerce_thumbnail&quot;]</value>
-      <webElementGuid>3b3ada9b-970c-4f13-9de5-088e915bc223</webElementGuid>
+      <value>id(&quot;sticky_bottom_anchor&quot;)/ul[@class=&quot;products columns-3 js_animated&quot;]/li[@class=&quot;product type-product post-25 status-publish first instock product_cat-uncategorized has-post-thumbnail shipping-taxable purchasable product-type-simple visible animation_ready animated&quot;]/div[@class=&quot;main-container&quot;]/div[@class=&quot;product_image_wrapper&quot;]/div[@class=&quot;product_image&quot;]/a[1]/img[@class=&quot;attachment-woocommerce_thumbnail size-woocommerce_thumbnail&quot;]</value>
+      <webElementGuid>605924a5-5c48-4e5b-829d-54cc7d13923c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='sticky_bottom_anchor']/ul/li[3]/div/div/div[2]/a/img</value>
-      <webElementGuid>2a637c8d-9062-4c49-b227-b6b79e747a76</webElementGuid>
+      <value>//div[@id='sticky_bottom_anchor']/ul/li[5]/div/div/div[2]/a/img</value>
+      <webElementGuid>7b2d5d9b-d031-445b-b185-d5c2568ac394</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:img</name>
       <type>Main</type>
-      <value>//img[contains(@src,'https://kotakoki.wijaysali.my.id/wp-content/uploads/2018/03/pennant-1-330x413.jpg')]</value>
-      <webElementGuid>d2bf71a7-bf08-47f2-97ec-ba45355d0199</webElementGuid>
+      <value>//img[contains(@src,'https://kotakoki.wijaysali.my.id/wp-content/uploads/2018/03/t-shirt-with-logo-1-330x413.jpg')]</value>
+      <webElementGuid>caab5b60-67f1-4fc3-ba2b-9d24e5ae861b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[3]/div/div/div[2]/a/img</value>
-      <webElementGuid>03840c50-659e-4645-b675-1311f95c9a30</webElementGuid>
+      <value>//li[5]/div/div/div[2]/a/img</value>
+      <webElementGuid>e0e95197-1d08-4f9f-aadb-35b3ccb37987</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//img[@src = 'https://kotakoki.wijaysali.my.id/wp-content/uploads/2018/03/pennant-1-330x413.jpg']</value>
-      <webElementGuid>b725153a-f325-496b-aa80-fd98ea1441bb</webElementGuid>
+      <value>//img[@src = 'https://kotakoki.wijaysali.my.id/wp-content/uploads/2018/03/t-shirt-with-logo-1-330x413.jpg']</value>
+      <webElementGuid>c246b365-1065-4e42-80e8-61c05b8d7c69</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
