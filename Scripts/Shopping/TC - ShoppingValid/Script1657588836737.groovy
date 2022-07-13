@@ -21,9 +21,9 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://kotakoki.wijaysali.my.id/')
 
-WebUI.click(findTestObject('Object Repository/Shopping/span_Shop'))
+WebUI.click(findTestObject('On Sale/span_Shop'))
 
-WebUI.click(findTestObject('Object Repository/Shopping/img_New_attachment-woocommerce_thumbnail si_3f99c3'))
+WebUI.click(findTestObject('Shopping/img_album'))
 
 WebUI.click(findTestObject('Object Repository/Shopping/button_Add to cart'))
 
